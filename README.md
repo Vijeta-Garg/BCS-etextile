@@ -16,3 +16,7 @@ I integrated haptic motors into strategic locations throughout the vest and prog
   What I struggled with/learned about:
   - Definitely learned how to e-sew. Integration is one of the hardest/most challenging parts of creating wearables and e-sewing helped me out a lot.
   - I learned how to be more precise with my soldering especially since I was using smaller components.
+ 
+Link to learn more about BCS: 
+https://theartistotleofmythoughts.blogspot.com/2025/08/undershirt-to-mitigate-monitor-late.html
+
